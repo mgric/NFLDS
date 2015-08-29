@@ -1,0 +1,97 @@
+,Opponent,Location,Result,Attend,Playing,O Score,H Score,OT
+2009-09-13,Detroit,"New Orleans, LA",W,"69,719",Home,27,45,False
+2009-09-20, Philadelphia,"Philadelphia, PA",W,"69,144",Away,22,48,False
+2009-09-27, Buffalo,"Orchard Park, NY",W,"70,261",Away,7,27,False
+2009-10-04,NY Jets,"New Orleans, LA",W,"70,009",Home,10,24,False
+2009-10-18,NY Giants,"New Orleans, LA",W,"70,011",Home,27,48,False
+2009-10-25, Miami,"Miami Gardens, FL",W,"66,689",Away,34,46,False
+2009-11-02,Atlanta,"New Orleans, LA",W,"70,088",Home,27,35,False
+2009-11-08,Carolina,"New Orleans, LA",W,"70,011",Home,20,30,False
+2009-11-15, St. Louis,"St. Louis, MO",W,"59,858",Away,23,28,False
+2009-11-22, Tampa Bay,"Tampa, FL",W,"62,720",Away,7,38,False
+2009-11-30,New England,"New Orleans, LA",W,"70,768",Home,17,38,False
+2009-12-06, Washington,"Landover, MD",W,"84,520",Away,30,33,True
+2009-12-13, Atlanta,"Atlanta, GA",W,"68,930",Away,23,26,False
+2009-12-19,Dallas,"New Orleans, LA",L,"70,213",Home,17,24,False
+2009-12-27,Tampa Bay,"New Orleans, LA",L,"70,021",Home,17,20,True
+2010-01-03, Carolina,"Charlotte, NC",L,"73,047",Away,10,23,False
+2010-09-09,Minnesota,"New Orleans, LA",W,"70,051",Home,9,14,False
+2010-09-20, San Francisco,"San Francisco, CA",W,"69,732",Away,22,25,False
+2010-09-26,Atlanta,"New Orleans, LA",L,"70,051",Home,24,27,True
+2010-10-03,Carolina,"New Orleans, LA",W,"70,016",Home,14,16,False
+2010-10-10, Arizona,"Glendale, AZ",L,"62,621",Away,20,30,False
+2010-10-17, Tampa Bay,"Tampa, FL",W,"51,759",Away,6,31,False
+2010-10-24,Cleveland,"New Orleans, LA",L,"70,077",Home,17,30,False
+2010-10-31,Pittsburgh,"New Orleans, LA",W,"70,011",Home,10,20,False
+2010-11-07, Carolina,"Charlotte, NC",W,"73,191",Away,3,34,False
+2010-11-21,Seattle,"New Orleans, LA",W,"70,015",Home,19,34,False
+2010-11-25, Dallas,"Arlington, TX",W,"93,985",Away,27,30,False
+2010-12-05, Cincinnati,"Cincinnati, OH",W,"59,963",Away,30,34,False
+2010-12-12,St. Louis,"New Orleans, LA",W,"70,015",Home,13,31,False
+2010-12-19, Baltimore,"Baltimore, MD",L,"71,432",Away,24,30,False
+2010-12-27, Atlanta,"Atlanta, GA",W,"70,144",Away,14,17,False
+2011-01-02,Tampa Bay,"New Orleans, LA",L,"70,068",Home,13,23,False
+2011-09-08, Green Bay,"Green Bay, WI",L,"70,555",Away,34,42,False
+2011-09-18,Chicago,"New Orleans, LA",W,"73,019",Home,13,30,False
+2011-09-25,Houston,"New Orleans, LA",W,"73,002",Home,33,40,False
+2011-10-02, Jacksonville,"Jacksonville, FL",W,"62,471",Away,10,23,False
+2011-10-09, Carolina,"Charlotte, NC",W,"72,679",Away,27,30,False
+2011-10-16, Tampa Bay,"Tampa, FL",L,"56,590",Away,20,26,False
+2011-10-23,Indianapolis,"New Orleans, LA",W,"73,012",Home,7,62,False
+2011-10-30, St. Louis,"St. Louis, MO",L,"57,179",Away,21,31,False
+2011-11-06,Tampa Bay,"New Orleans, LA",W,"73,043",Home,16,27,False
+2011-11-13, Atlanta,"Atlanta, GA",W,"70,359",Away,23,26,True
+2011-11-28,NY Giants,"New Orleans, LA",W,"73,068",Home,24,49,False
+2011-12-04,Detroit,"New Orleans, LA",W,"73,042",Home,17,31,False
+2011-12-11, Tennessee,"Nashville, TN",W,"69,143",Away,17,22,False
+2011-12-18, Minnesota,"Minneapolis, MN",W,"62,623",Away,20,42,False
+2011-12-26,Atlanta,"New Orleans, LA",W,"73,084",Home,16,45,False
+2012-01-01,Carolina,"New Orleans, LA",W,"73,065",Home,17,45,False
+2012-09-09,Washington,"New Orleans, LA",L,"72,180",Home,32,40,False
+2012-09-16, Carolina,"Charlotte, NC",L,"72,879",Away,27,35,False
+2012-09-23,Kansas City,"New Orleans, LA",L,"72,226",Home,24,27,True
+2012-09-30, Green Bay,"Green Bay, WI",L,"70,571",Away,27,28,False
+2012-10-07,San Diego,"New Orleans, LA",W,"73,109",Home,24,31,False
+2012-10-21, Tampa Bay,"Tampa, FL",W,"58,906",Away,28,35,False
+2012-10-28, Denver,"Denver, CO",L,"76,832",Away,14,34,False
+2012-11-05,Philadelphia,"New Orleans, LA",W,"73,099",Home,13,28,False
+2012-11-11,Atlanta,"New Orleans, LA",W,"73,126",Home,27,31,False
+2012-11-18, Oakland,"Oakland, CA",W,"56,880",Away,17,38,False
+2012-11-25,San Francisco,"New Orleans, LA",L,"73,147",Home,21,31,False
+2012-11-29, Atlanta,"Atlanta, GA",L,"70,514",Away,13,23,False
+2012-12-09, NY Giants,"East Rutherford, NJ",L,"81,437",Away,27,52,False
+2012-12-16,Tampa Bay,"New Orleans, LA",W,"73,096",Home,0,41,False
+2012-12-23, Dallas,"Arlington, TX",W,"92,570",Away,31,34,True
+2012-12-30,Carolina,"New Orleans, LA",L,"73,124",Home,38,44,False
+2013-09-08,Atlanta,"New Orleans, LA",W,"72,348",Home,17,23,False
+2013-09-15, Tampa Bay,"Tampa, FL",W,"60,870",Away,14,16,False
+2013-09-22,Arizona,"New Orleans, LA",W,"73,057",Home,7,31,False
+2013-09-30,Miami,"New Orleans, LA",W,"73,118",Home,17,38,False
+2013-10-06, Chicago,"Chicago, IL",W,"62,361",Away,18,26,False
+2013-10-13, New England,"Foxborough, MA",L,"68,756",Away,27,30,False
+2013-10-27,Buffalo,"New Orleans, LA",W,"72,405",Home,17,35,False
+2013-11-03, NY Jets,"East Rutherford, NJ",L,"76,957",Away,20,26,False
+2013-11-10,Dallas,"New Orleans, LA",W,"73,018",Home,17,49,False
+2013-11-17,San Francisco,"New Orleans, LA",W,"73,025",Home,20,23,False
+2013-11-21, Atlanta,"Atlanta, GA",W,"70,422",Away,13,17,False
+2013-12-02, Seattle,"Seattle, WA",L,"68,387",Away,7,34,False
+2013-12-08,Carolina,"New Orleans, LA",W,"73,089",Home,13,31,False
+2013-12-15, St. Louis,"St. Louis, MO",L,"58,442",Away,16,27,False
+2013-12-22, Carolina,"Charlotte, NC",L,"73,825",Away,13,17,False
+2013-12-29,Tampa Bay,"New Orleans, LA",W,"73,150",Home,17,42,False
+2014-09-07, Atlanta,"Atlanta, GA",L,"70,706",Away,34,37,True
+2014-09-14, Cleveland,"Cleveland, OH",L,"67,407",Away,24,26,False
+2014-09-21,Minnesota,"New Orleans, LA",W,"73,005",Home,9,20,False
+2014-09-28, Dallas,"Arlington, TX",L,"91,176",Away,17,38,False
+2014-10-05,Tampa Bay,"New Orleans, LA",W,"73,004",Home,31,37,True
+2014-10-19, Detroit,"Detroit, MI",L,"63,271",Away,23,24,False
+2014-10-26,Green Bay,"New Orleans, LA",W,"73,146",Home,23,44,False
+2014-10-30, Carolina,"Charlotte, NC",W,"73,663",Away,10,28,False
+2014-11-09,San Francisco,"New Orleans, LA",L,"73,129",Home,24,27,True
+2014-11-16,Cincinnati,"New Orleans, LA",L,"73,073",Home,10,27,False
+2014-11-24,Baltimore,"New Orleans, LA",L,"73,373",Home,27,34,False
+2014-11-30, Pittsburgh,"Pittsburgh, PA",W,"61,916",Away,32,35,False
+2014-12-07,Carolina,"New Orleans, LA",L,"73,006",Home,10,41,False
+2014-12-15, Chicago,"Chicago, IL",W,"60,996",Away,15,31,False
+2014-12-21,Atlanta,"New Orleans, LA",L,"73,164",Home,14,30,False
+2014-12-28, Tampa Bay,"Tampa, FL",W,"59,952",Away,20,23,False
